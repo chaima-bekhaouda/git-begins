@@ -1,0 +1,5 @@
+git clone
+les 3 commandes de push sont:
+git add
+git commit -m
+git push
